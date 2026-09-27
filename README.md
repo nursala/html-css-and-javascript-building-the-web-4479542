@@ -1,4 +1,10 @@
-# HTML, CSS, and JavaScript: Building the Web
+# Web Development Course Exercises
+
+**Learning repository · HTML · CSS · JavaScript**
+
+Course materials and exercises from LinkedIn Learning's *HTML, CSS, and JavaScript: Building the Web*. Original course authors and attribution are retained below.
+
+## Original course information
 This is the repository for the LinkedIn Learning course HTML, CSS, and JavaScript: Building the Web. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
